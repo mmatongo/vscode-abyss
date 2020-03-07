@@ -1,0 +1,47 @@
+{
+	"name": "dark-abyss",
+	"displayName": "Abyss",
+	"description": "More than just a dark theme.",
+	"version": "0.0.1",
+	"publisher": "MatongoMulindi",
+	"author": {
+		"name": "Matongo Mulindi"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/mmatongo/vscode-abyss"
+	},
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#f2f2f2",
+		"theme": "light"
+	},
+	"keywords": [
+		"borders",
+		"dark",
+		"color-theme",
+		"theme",
+		"black",
+		"duotone"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Abyss",
+				"uiTheme": "vs-dark",
+				"path": "./themes/abyss-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "MatongoMulindi",
+		"publisherId": "MatongoMulindi",
+		"publisherDisplayName": "Matongo Mulindi"
+	}
+}
