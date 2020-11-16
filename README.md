@@ -16,7 +16,4 @@ If you find any inconsistency in any language, raise an Issue and I'll fix it, p
 
 ### Screenshots
 
-![image](https://github.com/mmatongo/vscode-abyss/blob/master/img/1.png?raw=true)
-![image](https://github.com/mmatongo/vscode-abyss/blob/master/img/2.png?raw=true)
 ![image](https://github.com/mmatongo/vscode-abyss/blob/master/img/3.png?raw=true)
-![image](https://github.com/mmatongo/vscode-abyss/blob/master/img/4.png?raw=true)
