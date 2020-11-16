@@ -1,6 +1,8 @@
 # It's simply Dark
 -----
 
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/MatongoMulindi.abyss.svg)](https://marketplace.visualstudio.com/items?itemName=MatongoMulindi.abyss) [![Installs](https://vsmarketplacebadge.apphb.com/installs/MatongoMulindi.abyss.svg)](https://marketplace.visualstudio.com/items?itemName=MatongoMulindi.abyss) [![Ratings](https://vsmarketplacebadge.apphb.com/rating-short/MatongoMulindi.abyss.svg)](https://marketplace.visualstudio.com/items?itemName=MatongoMulindi.abyss)
+
 ### Installing
 
 This extension is available in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MatongoMulindi.abyss)  
