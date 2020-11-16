@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Language="en-US" Id="dark-abyss" Version="0.0.1" Publisher="MatongoMulindi"/>
-    <DisplayName>Borders Dark</DisplayName>
+    <DisplayName>Dark Abyss</DisplayName>
     <Description xml:space="preserve">More than just a dark theme.</Description>
     <Tags>borders,dark,color-theme,theme,black,duotone</Tags>
     <Categories>Themes</Categories>
