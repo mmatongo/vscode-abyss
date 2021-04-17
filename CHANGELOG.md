@@ -13,3 +13,7 @@
     - This resolves this [issue 1](https://github.com/mmatongo/vscode-abyss/issues/1)
 - Removed sphagetti.
 - Corrected colour codes.
+
+## 17-04-2021
+- Fixed some colour problems involving `editorBracketMatch.background`
+- Other fixes for convenience.
